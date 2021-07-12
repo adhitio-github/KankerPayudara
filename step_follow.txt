@@ -1,6 +1,6 @@
-ama WEB : https://covid-prediksi.herokuapp.com/
+ama WEB : https://predict-cancer-breast.herokuapp.com/
 
-Sumber data : https://ourworldindata.org/coronavirus-source-data
+Sumber data : kaggle
 
 1. Create a repository on github and clone in your PC
 2. Navigate to that folder in the terminal
